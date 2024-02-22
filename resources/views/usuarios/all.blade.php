@@ -4,7 +4,7 @@
 
 
     
-    <div class="mx-auto mt-10 overflow-x-auto shadow-none  w-3/5 bg-white sm:rounded-lg">
+    <div class="mx-auto mt-10 overflow-x-auto shadow-none  w-3/5 sm:rounded-lg">
         <div class="flex flex-row justify-between">
             <h2 class="text-lg font-medium">Gestion de usuario</h2>
             <form action="{{ route('usuarios-create') }}">
